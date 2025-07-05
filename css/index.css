@@ -1,0 +1,28 @@
+.yukai {
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+    font-family: "WDXL Lubrifont JP N", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.7rem;
+}
+.yukai li {
+transition: .3s;
+}
+.yukai li:hover {
+    color: rgb(161, 175, 255);
+    text-shadow: 1px 2px 4px #000000;
+    font-size: 2rem;
+}
+.zahyo {
+    font-size: 2rem;
+    font-family: "Kaisei Decol", serif;
+    font-weight: 400;
+    font-style: normal
+}
+.img {
+    width: 340px;
+    height: 250px;
+    border: 1px #000 solid;
+}
